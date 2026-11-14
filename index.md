@@ -12,6 +12,7 @@ Cozy puzzle games starring wild boars. / 멧돼지가 나오는 퍼즐 게임을
 
 - [Privacy Policy](privacy.html) · [개인정보처리방침](privacy-ko.html)
 - [Terms of Service](terms.html) · [이용약관](terms-ko.html)
+- [Chest odds](odds.html#chest-odds-english) · [상자 확률 안내](odds.html)
 
 ## Contact / 문의
 
