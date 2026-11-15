@@ -15,7 +15,7 @@ title: 상자 확률 안내 (Chest Odds) - Hoink Studios
 - 스테이지를 깨면 상자 세 개가 나오고, 그중 하나를 골라 열어요.
 - 광고를 보면 남은 상자를 하나씩 더 열 수 있어요(스테이지당 최대 2번).
 - 상자는 보석이나 현금으로 살 수 없어요. 현재 판매 중인 유료 상품(시즌 패스 포함)에도 상자나 뽑기권은 들어 있지 않아요.
-- 그래서 이 상자는 직접이든 간접이든 돈을 내고 얻을 수 없는, 온전히 무료로 얻는 아이템이에요. 그래도 누구나 확인할 수 있도록 확률을 공개해요.
+- 상자는 보석이나 현금으로 직접 살 수 없어요. 누구나 확인할 수 있도록 확률을 모두 공개하고, 바꾸기 전에 미리 알려요.
 - 세 상자의 확률은 모두 같아요. 결과는 상자를 누르는 순간 아래 확률로 정해져요.
 
 ## 멧돼지 등급 (6단계, 102종)
@@ -114,7 +114,7 @@ title: 상자 확률 안내 (Chest Odds) - Hoink Studios
 
 | 게시일 | 적용일 | 내용 |
 |---|---|---|
-| 2026-11-15 | 출시일 | 도감 확장(102종)에 맞춰 등급을 6단계(고급·신화 추가)로 바꾸고 희귀 가중치를 40으로 조정, 행운의 돌림판 확률 추가 (출시 전 수정) |
+| 2026-11-15 | 출시일 | "온전히 무료" 표현을 "직접 살 수 없음"으로 정정. 도감 확장(102종)에 맞춰 등급을 6단계(고급·신화 추가)로 바꾸고 희귀 가중치를 40으로 조정, 행운의 돌림판 확률 추가 (출시 전 수정) |
 | 2026-11-15 | 2026-11-15 | 처음 게시 |
 
 문의: hoinkstudios@gmail.com
@@ -125,7 +125,7 @@ title: 상자 확률 안내 (Chest Odds) - Hoink Studios
 
 **Game**: Hoink Hoink! Slide Puzzles · **Publisher**: Hoink Studios · **Last updated**: 2026-11-15 · **Applies from**: launch
 
-**Chests are free.** Clearing a stage drops three chests and you open one. Watching an ad opens one more (up to 2 per stage). Chests can't be bought with gems or money, and no product currently on sale (including the season pass) contains chests or chest tickets. All three chests have the same odds; the result is drawn when you tap a chest.
+**Chests are free.** Clearing a stage drops three chests and you open one. Watching an ad opens one more (up to 2 per stage). Chests can't be bought directly with gems or money, and no product currently on sale (including the season pass) contains chests or chest tickets. We publish all odds and announce changes in advance. All three chests have the same odds; the result is drawn when you tap a chest.
 
 **Boar grades (6 grades, 102 boars).**
 
