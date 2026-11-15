@@ -38,7 +38,7 @@ Your progress is stored on your device. Uninstalling the app or changing devices
    - items that are used or applied immediately on purchase
    - items that are partly used, or packs of which any part has been used
    - currencies received for free through play or events
-3. Refunds follow the procedure of the store you paid through. If the store cannot help, email seogyu2@gmail.com and we will review your case.
+3. Refunds follow the procedure of the store you paid through. If the store cannot help, email hoinkstudios@gmail.com and we will review your case.
 4. If we end the service, unused paid currency bought before the end date will be refunded according to applicable law and the store's policy.
 
 ## 8. Random items
@@ -66,4 +66,4 @@ We are not liable for damage caused by natural disasters, problems with your dev
 These terms are governed by the laws of the Republic of Korea, and disputes are handled by the court with jurisdiction under the Korean Civil Procedure Act.
 
 ## Contact
-seogyu2@gmail.com
+hoinkstudios@gmail.com

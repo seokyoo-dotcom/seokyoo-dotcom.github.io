@@ -80,7 +80,7 @@ title: 상자 확률 안내 (Chest Odds) - Hoink Studios
 |---|---|---|
 | 2026-11-15 | 2026-11-15 | 처음 게시 |
 
-문의: seogyu2@gmail.com
+문의: hoinkstudios@gmail.com
 
 ---
 
@@ -107,4 +107,4 @@ A boar that already came out of an earlier chest in the same stage is removed fr
 
 **New-friend guarantee.** If 9 chests in a row give no boar you don't own yet, the 10th chest draws only from the stage's boars you don't own, weighted as above. The count carries over between stages and resets when you get a new boar. If you already own all of the stage's boars, the guarantee carries over. The in-game odds screen shows how many chests are left. Before we change the guarantee count or any weight, we will post the new values and their start date here and in the game.
 
-Contact: seogyu2@gmail.com
+Contact: hoinkstudios@gmail.com

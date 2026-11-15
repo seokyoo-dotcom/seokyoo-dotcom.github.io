@@ -52,7 +52,7 @@ Payments are processed by Google LLC and Apple Inc.
 ## 5. Your choices and rights
 
 - Personalised ads: reset your advertising ID or turn off personalised ads in your device settings. You can also change your consent in the app's privacy (ad consent) settings.
-- Access and deletion: email seogyu2@gmail.com and we will respond within 10 days.
+- Access and deletion: email hoinkstudios@gmail.com and we will respond within 10 days.
 - Game data: uninstalling the app deletes all data stored on your device.
 
 ## 6. Children
@@ -66,7 +66,7 @@ Our ad partners' servers are located outside Korea (mainly in the United States)
 ## 8. Contact
 
 - Privacy officer: Hoink Studios
-- Email: seogyu2@gmail.com
+- Email: hoinkstudios@gmail.com
 
 ## 9. Changes
 

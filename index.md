@@ -16,4 +16,4 @@ Cozy puzzle games starring wild boars. / 멧돼지가 나오는 퍼즐 게임을
 
 ## Contact / 문의
 
-seogyu2@gmail.com
+hoinkstudios@gmail.com
