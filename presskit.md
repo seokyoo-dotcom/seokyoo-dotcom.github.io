@@ -13,7 +13,7 @@ title: Press kit - Hoink Hoink! Slide Puzzles
 | | |
 |---|---|
 | **Title** | Hoink Hoink! Slide Puzzles (Korean: 맷꿀맷꿀! 슬라이드 퍼즐) |
-| **Developer** | Hoink Studios (solo developer, Seongnam, South Korea) |
+| **Developer** | Hoink Studios (solo developer, South Korea) |
 | **Platforms** | Android (Google Play), iOS and iPadOS (App Store) |
 | **Release** | 2026, date to be announced. Android closed test first |
 | **Price** | Free to play, optional in-app purchases, optional rewarded ads only |
@@ -34,7 +34,7 @@ After each stage you pick one of three free chests and may meet a new boar. More
 
 ## Features
 
-- 300 hand-checked sliding puzzles with no timers
+- 300 sliding puzzles, each checked to be solvable, with no timers
 - 100+ collectible boars from free chests, with published odds
 - Ten villages to decorate, a new one every 30 stages
 - Daily missions, lucky wheel, today's puzzle, card match and expeditions
