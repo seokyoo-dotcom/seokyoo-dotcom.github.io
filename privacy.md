@@ -38,11 +38,9 @@ The following partners' SDKs process data to serve ads, measure usage and report
 | Google AdMob (Google LLC) | <https://policies.google.com/privacy> |
 | Google Firebase Analytics and Crashlytics (Google LLC) | <https://firebase.google.com/support/privacy> |
 | Unity Ads (Unity Technologies) | <https://unity.com/legal/game-player-and-app-user-privacy-policy> |
-| AppLovin | <https://www.applovin.com/privacy/> |
 | Liftoff Monetize (Vungle) | <https://liftoff.io/privacy-policy/> |
-| Meta Audience Network | <https://www.facebook.com/privacy/policy/> |
-| Moloco | <https://www.moloco.com/privacy-policy> |
-| Mintegral | <https://www.mintegral.com/en/privacy> |
+
+If we add other ad partners through AdMob mediation, we will list them here before they go live.
 
 Payments are processed by Google LLC and Apple Inc.
 

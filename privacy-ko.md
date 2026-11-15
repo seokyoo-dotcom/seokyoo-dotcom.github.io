@@ -38,11 +38,9 @@ title: 개인정보처리방침 - Hoink Studios
 | Google AdMob (Google LLC) | <https://policies.google.com/privacy> |
 | Google Firebase Analytics·Crashlytics (Google LLC) | <https://firebase.google.com/support/privacy> |
 | Unity Ads (Unity Technologies) | <https://unity.com/legal/game-player-and-app-user-privacy-policy> |
-| AppLovin | <https://www.applovin.com/privacy/> |
 | Liftoff Monetize (Vungle) | <https://liftoff.io/privacy-policy/> |
-| Meta Audience Network | <https://www.facebook.com/privacy/policy/> |
-| Moloco | <https://www.moloco.com/privacy-policy> |
-| Mintegral | <https://www.mintegral.com/en/privacy> |
+
+AdMob 미디에이션으로 다른 광고 사업자를 추가하면, 적용 전에 이 표에 먼저 올립니다.
 
 결제는 Google LLC, Apple Inc.가 처리합니다.
 
