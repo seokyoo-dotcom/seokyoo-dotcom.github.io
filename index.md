@@ -21,6 +21,7 @@ Give a boar a push and it slides until something stops it! Send every boar throu
 ## Help / 도움말
 
 - [FAQ](faq.html) · [자주 묻는 질문](faq-ko.html)
+- [Press kit / 보도자료](presskit.html)
 - [Chest odds](odds.html#chest-odds-english) · [상자 확률 안내](odds.html)
 - [Privacy Policy](privacy.html) · [개인정보처리방침](privacy-ko.html)
 - [Terms of Service](terms.html) · [이용약관](terms-ko.html)

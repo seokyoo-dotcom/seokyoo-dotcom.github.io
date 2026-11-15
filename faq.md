@@ -41,7 +41,7 @@ Every product is consumable (used up when spent), so purchases don't carry over 
 No. The only ads are rewarded ads that you choose to watch.
 
 **Q. How do I change my ad consent?**
-Use the privacy (ad consent) option in the game settings. You can also reset your advertising ID or turn off personalised ads in your device settings.
+Where the law gives you a choice (for example in the EEA and UK), the game settings show an ad privacy button that reopens the consent form. You can also reset your advertising ID or turn off personalised ads in your device settings.
 
 **Q. How do I delete my data?**
 Game progress is deleted when you uninstall the app. For data held by our ad and analytics partners, or any other request, email hoinkstudios@gmail.com and we will respond within 10 days. See the [Privacy Policy](privacy.html).
