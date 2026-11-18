@@ -7,7 +7,7 @@ title: 개인정보처리방침 - Hoink Studios
 [English](privacy.html)
 
 **앱**: 맷꿀맷꿀! 슬라이드 퍼즐 (Hoink Hoink! Slide Puzzles)
-**운영자**: Hoink Studios (개인 개발자 유석, 이하 "운영자")
+**운영자**: 호잉크 스튜디오 (Hoink Studios, 대표 유석, 사업자등록번호 778-40-01490, 이하 "운영자")
 **시행일**: 2026-11-15
 
 ## 1. 수집하는 정보

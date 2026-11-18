@@ -7,7 +7,7 @@ title: Privacy Policy - Hoink Studios
 [한국어](privacy-ko.html)
 
 **App**: Hoink Hoink! Slide Puzzles (맷꿀맷꿀! 슬라이드 퍼즐)
-**Operator**: Hoink Studios (an individual developer based in Korea, "we")
+**Operator**: Hoink Studios (sole proprietorship registered in Korea, business registration no. 778-40-01490, representative Seok Yoo, "we")
 **Effective date**: 2026-11-15
 
 ## 1. Information we collect
